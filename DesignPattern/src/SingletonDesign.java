@@ -51,7 +51,7 @@ public class SingletonDesign {
 		Thread t2=new Thread(b);
 		t1.start();
 		t2.start();
-		System.out.println("new instance created");
+		System.out.println("new instannnce created");
 		
 	}
 
